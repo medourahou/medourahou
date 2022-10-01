@@ -1,6 +1,6 @@
 ![MasterHead](https://image.shutterstock.com/image-vector/artificial-intelligence-banner-icons-set-260nw-1299382426.jpg)
 <h1 align="center">Hi 👋, I'm OURAHOU Mohamed</h1>
-<h3 align="center">A passionate AI Student from Morocco</h3>
+<h3 align="center">A passionate Computer Science Student from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 - 🌱 I’m currently learning **NLP, Digital signal processing,Image processing, Deep learning, Big data, Reinforcement learning**
