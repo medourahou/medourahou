@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science Student from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🌱 I’m currently learning **NLP, Digital signal processing,Image processing, Deep learning, Big data, Reinforcement learning**
+- 🌱 I’m currently working on **NLP, Digital signal processing,Image processing, Deep learning, Big data, Reinforcement learning**
 
 - 💬 Ask me about **Maching learning, Deep learning, Reinforcement learning, Image processing, Python,C,Java,Mathematics**
 
